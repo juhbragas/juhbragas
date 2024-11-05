@@ -4,7 +4,8 @@
   
 Eu gosto de Front-end e bolo de milho. 
 
-# 🫵✋ Cuidado
+# print("Hello, World") #pra dar sorte
+
 homens trabalhando por aqui... 🛻⛏️🧱🦺
 
 <br>
