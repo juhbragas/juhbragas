@@ -34,3 +34,9 @@
   <br>
 gente, esse é meu marido.
 Sim, ele é desse jeito, sem mudar nada. Talvez a cor da blusa...
+</td>
+</tr>
+</table>
+
+#
+![Visitor Count](https://profile-counter.glitch.me/juhbragas/count.svg)
