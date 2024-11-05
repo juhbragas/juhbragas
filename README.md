@@ -14,12 +14,23 @@
 </a>
 </p>
 
-# 
+#
 
-<div align="center">
+<a href="https://github.com/juhbragas/juhbragas/issues/1">
+<strong>Acesse aqui!📝 </strong>
+</a>  
+<br>
+
+#
+
+<table width="1100%" align="center">
+<tr>
+<td align="center">
 <img src="https://github.com/juhbragas/juhbragas/blob/main/images/myocta.png?raw=true" align="left" height="350";" alt="octocat" />
-  <br/>
-<div align="left">
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
 gente, esse é meu marido.
-  
 Sim, ele é desse jeito, sem mudar nada. Talvez a cor da blusa...
