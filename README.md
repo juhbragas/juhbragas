@@ -17,7 +17,7 @@
 # 
 
 <div align="center">
-<img src="https://github.com/juhbragas/Git-GitHub/blob/main/octocat-1730486720591.png?raw=true" align="left" height="350";" alt="octocat" />
+<img src="https://github.com/juhbragas/juhbragas/blob/main/images/myocta.png?raw=true" align="left" height="350";" alt="octocat" />
   <br/>
 <div align="left">
 gente, esse é meu marido.
